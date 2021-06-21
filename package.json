@@ -1,0 +1,24 @@
+{
+  "name": "poc-instaclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gllisboa/poc-instaclone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gllisboa/poc-instaclone/issues"
+  },
+  "homepage": "https://github.com/gllisboa/poc-instaclone#readme",
+  "dependencies": {
+    "cypress": "^7.5.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
